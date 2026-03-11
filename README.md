@@ -41,7 +41,7 @@ pip install tensorflow streamlit numpy pillow
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/arpy8/Plant_Disease_Detection.git
+   git clone https://github.com/KumarTanmay554/Plant_Disease_Detection.git
    cd Plant_Disease_Detection_using_CNN
    ```
 
